@@ -1,5 +1,11 @@
-body {
+/* To Remove the Imagenary Margin From the TOP of the PAGE */
+*{
   margin: 0;
+}
+
+
+body {
+  /* margin: 0; */
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

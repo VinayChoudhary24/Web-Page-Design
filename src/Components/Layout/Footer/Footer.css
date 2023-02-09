@@ -1,0 +1,8 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    color: #5e5e5e;
+    font-weight: 500;
+    cursor: pointer;
+}
